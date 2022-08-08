@@ -1,0 +1,4 @@
+paramiko
+pysftp
+Pyro4
+serial
